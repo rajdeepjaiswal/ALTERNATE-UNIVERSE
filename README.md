@@ -1,7 +1,5 @@
+#### ALTERNATE-UNIVERSE
 
-# Use basic p5.play-boilerplate
-Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFiles
+#### Solar System using Sprites in JavaScript.
 
-## Please refer to code notes for explanation.
-
-### Output Link : https://vishnupriya-whitehatjr.github.io/c21-SolarSystem/
+#### Output Link : https://rajdeepjaiswal.github.io/ALTERNATE-UNIVERSE-/

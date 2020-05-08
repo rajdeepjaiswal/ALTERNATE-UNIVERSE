@@ -1,5 +1,5 @@
-#### ALTERNATE-UNIVERSE
+# ALTERNATE-UNIVERSE
 
-#### Solar System using Sprites in JavaScript.
+## Solar System using Sprites in JavaScript.
 
-#### Output Link : https://rajdeepjaiswal.github.io/ALTERNATE-UNIVERSE-/
+### Output Link : https://rajdeepjaiswal.github.io/ALTERNATE-UNIVERSE/
